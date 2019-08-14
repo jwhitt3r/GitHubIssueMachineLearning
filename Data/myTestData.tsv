@@ -1,0 +1,4 @@
+ID	Area	Title	Description
+933		WebSockets communication is slow in my machine	The WebSockets communication used under the covers by SignalR looks like is going slow in my development machine..
+7364		Entity Framework crashes	"When connecting to the database, EF is crashing"
+3434		Github Down	"When going to the website, github says it is down"
